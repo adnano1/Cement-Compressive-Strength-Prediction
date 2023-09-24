@@ -1,0 +1,9 @@
+numpy
+pandas
+flask
+seaborn
+matplotlib
+scikit-learn
+xgboost
+datetime
+logging
